@@ -34139,7 +34139,9 @@ PlayableDirector:
   m_WrapMode: 2
   m_DirectorUpdateMode: 1
   m_InitialTime: 0
-  m_SceneBindings: []
+  m_SceneBindings:
+  - key: {fileID: 7672082158729384333, guid: 214e7c17954f913469b4575a10e8bc7a, type: 2}
+    value: {fileID: 1743139313}
   m_ExposedReferences:
     m_References:
     - 4216cac0cb503394fbfd5cbc3db448ea: {fileID: 0}
@@ -51179,6 +51181,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f89b0b94c3142c6479a6814a5c31b885, type: 3}
+--- !u!95 &1743139313 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 5866666021909216657, guid: f89b0b94c3142c6479a6814a5c31b885, type: 3}
+  m_PrefabInstance: {fileID: 1743139312}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1748117078
 GameObject:
   m_ObjectHideFlags: 0
