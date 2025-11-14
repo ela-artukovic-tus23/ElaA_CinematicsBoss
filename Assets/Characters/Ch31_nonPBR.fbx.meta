@@ -890,7 +890,7 @@ ModelImporter:
     - name: mixamorig9:RightHandThumb3
       parentName: mixamorig9:RightHandThumb2
       position: {x: 0.001772869, y: 0.033597175, z: 0.000000001773464}
-      rotation: {x: -0.00012675104, y: -0.0011994259, z: 0.052867822, w: 0.9986008}
+      rotation: {x: -0.00012675107, y: -0.0011994259, z: 0.05286783, w: 0.9986008}
       scale: {x: 1, y: 1, z: 1}
     - name: mixamorig9:RightHandThumb4
       parentName: mixamorig9:RightHandThumb3
