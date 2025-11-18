@@ -606,7 +606,7 @@ ModelImporter:
     - name: mixamorig:LeftHand
       parentName: mixamorig:LeftForeArm
       position: {x: -0, y: 0.52773297, z: 0}
-      rotation: {x: -0.02618606, y: -0.113672346, z: 0.0781943, w: 0.99009025}
+      rotation: {x: -0.026186056, y: -0.113672346, z: 0.07819429, w: 0.99009025}
       scale: {x: 1, y: 1, z: 1}
     - name: mixamorig:LeftHandIndex1
       parentName: mixamorig:LeftHand
@@ -651,7 +651,7 @@ ModelImporter:
     - name: mixamorig:LeftHandPinky1
       parentName: mixamorig:LeftHand
       position: {x: -0.087809, y: 0.21905799, z: 0.00441}
-      rotation: {x: -0.0062480913, y: -0.00055966876, z: 0.05202744, w: 0.99862593}
+      rotation: {x: -0.006248092, y: -0.00055966876, z: 0.052027445, w: 0.99862593}
       scale: {x: 1, y: 1, z: 1}
     - name: mixamorig:LeftHandPinky2
       parentName: mixamorig:LeftHandPinky1
@@ -676,7 +676,7 @@ ModelImporter:
     - name: mixamorig:LeftHandRing2
       parentName: mixamorig:LeftHandRing1
       position: {x: -0, y: 0.063098, z: 0}
-      rotation: {x: 0.030042073, y: -0.0011815957, z: -0.002733641, w: 0.9995442}
+      rotation: {x: 0.030042075, y: -0.0011815957, z: -0.0027336413, w: 0.9995442}
       scale: {x: 1, y: 1, z: 1}
     - name: mixamorig:LeftHandRing3
       parentName: mixamorig:LeftHandRing2
@@ -836,7 +836,7 @@ ModelImporter:
     - name: mixamorig:RightHandThumb1
       parentName: mixamorig:RightHand
       position: {x: -0.061571002, y: 0.095019996, z: 0.0393}
-      rotation: {x: -0.26867548, y: -0.20932886, z: 0.21450321, w: 0.9154142}
+      rotation: {x: -0.2686755, y: -0.20932887, z: 0.21450323, w: 0.9154143}
       scale: {x: 1, y: 1, z: 1}
     - name: mixamorig:RightHandThumb2
       parentName: mixamorig:RightHandThumb1
