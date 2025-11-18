@@ -536,7 +536,7 @@ ModelImporter:
     - name: mixamorig:LeftFoot
       parentName: mixamorig:LeftLeg
       position: {x: -0, y: 0.855711, z: 0}
-      rotation: {x: 0.2886814, y: -0.6275938, z: -0.14028804, w: 0.70930123}
+      rotation: {x: 0.28868142, y: -0.6275939, z: -0.14028805, w: 0.7093013}
       scale: {x: 1, y: 1, z: 1}
     - name: mixamorig:LeftToeBase
       parentName: mixamorig:LeftFoot
@@ -601,7 +601,7 @@ ModelImporter:
     - name: mixamorig:LeftForeArm
       parentName: mixamorig:LeftArm
       position: {x: -0, y: 0.551277, z: 0}
-      rotation: {x: 0.0015403172, y: -0.23419046, z: 0.0025209181, w: 0.9721863}
+      rotation: {x: 0.001540317, y: -0.23419046, z: 0.002520918, w: 0.9721863}
       scale: {x: 1, y: 1, z: 1}
     - name: mixamorig:LeftHand
       parentName: mixamorig:LeftForeArm
@@ -841,7 +841,7 @@ ModelImporter:
     - name: mixamorig:RightHandThumb2
       parentName: mixamorig:RightHandThumb1
       position: {x: -0, y: 0.103491, z: 0}
-      rotation: {x: -0.010677936, y: 0.024859736, z: -0.034923494, w: 0.9990237}
+      rotation: {x: -0.0106779365, y: 0.024859736, z: -0.034923498, w: 0.9990237}
       scale: {x: 1, y: 1, z: 1}
     - name: mixamorig:RightHandThumb3
       parentName: mixamorig:RightHandThumb2
