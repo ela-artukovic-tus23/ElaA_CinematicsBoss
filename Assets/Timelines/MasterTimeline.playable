@@ -51,8 +51,8 @@ MonoBehaviour:
   m_Name: AnimationPlayableAsset
   m_EditorClassIdentifier: 
   m_Clip: {fileID: -203655887218126122, guid: 107c475b54a4cf346b5761be3b4bf490, type: 3}
-  m_Position: {x: -14.404464, y: 0.000000008702278, z: 12.693272}
-  m_EulerAngles: {x: 0, y: -144.43, z: 0}
+  m_Position: {x: -14.369338, y: 0.000000009953976, z: 12.733733}
+  m_EulerAngles: {x: 0, y: -129.3, z: 0}
   m_UseTrackMatchFields: 1
   m_MatchTargetFields: 63
   m_RemoveStartOffset: 1
@@ -851,7 +851,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Clip: {fileID: -203655887218126122, guid: 223049b0015910748bd3c0e7d865d698, type: 3}
   m_Position: {x: -14.5, y: 0.000000008702278, z: 12.811707}
-  m_EulerAngles: {x: 0, y: -144.43, z: 0}
+  m_EulerAngles: {x: 0, y: -164.71, z: 0}
   m_UseTrackMatchFields: 1
   m_MatchTargetFields: 63
   m_RemoveStartOffset: 1
@@ -1024,25 +1024,7 @@ MonoBehaviour:
       m_RotationOrder: 4
     m_MixOutCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -1069,25 +1051,7 @@ MonoBehaviour:
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      - serializedVersion: 3
-        time: 1
-        value: 1
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
+      m_Curve: []
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -1387,7 +1351,7 @@ MonoBehaviour:
     m_Start: 27.125
     m_ClipIn: 0
     m_Asset: {fileID: -5790233250674436904}
-    m_Duration: 2.5
+    m_Duration: 2.833333333333332
     m_TimeScale: 1
     m_ParentTrack: {fileID: 1964538703564760582}
     m_EaseInDuration: 0
